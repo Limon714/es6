@@ -1,0 +1,19 @@
+ [
+    {
+        "name": "Pen",
+        "age": 5,
+        "price":  50
+    },
+    
+    {
+         "name": "Pen",
+        "age": 7,
+        "price":  70
+    },
+    
+    {
+         "name": "Pen",
+        "age": 9,
+        "price":  90
+    }
+]
